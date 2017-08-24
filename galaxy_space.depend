@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1498839123 source:d:\corinthians\galaxy_space\main.cpp
+	<stdio.h>
+	<windows.h>
+	<conio.h>
+	<stdlib.h>
+	<list>
+
